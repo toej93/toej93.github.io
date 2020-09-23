@@ -8,3 +8,6 @@ venue: "2020 Graduate Student Summer Seminar Series"
 date: 2020-06-30
 location: "Columbus, Ohio"
 ---
+Contributed talk to the 2020 Graduate Student Summer Seminar Series.
+
+[Slides](https://github.com/toej93/toej93.github.io/blob/master/files/UHE_nu.pdf)
