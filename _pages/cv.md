@@ -23,5 +23,10 @@ Selected Publications
   
 Selected Talks
 ======
+  <ul>{% for post in site.talks %}	
+    {% include archive-single-talk-cv.html %}	
+  {% endfor %}</ul>	
 
+Complete CV
+======
 You can see a complete version of my CV [here](https://github.com/toej93/toej93.github.io/blob/master/files/CV_JTorres.pdf)
