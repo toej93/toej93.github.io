@@ -1,11 +1,10 @@
 ---
-title: "Ultra-High Energy Neutrinos: Physics, detection, and recent results from the Askaryan Radio Array
-(ARA) experiment"
+title: "Ultra-High Energy Neutrinos: Physics and Detection"
 collection: talks
 type: "Talk"
-permalink: /talks/OSU_GradSeminar_2020
-venue: "2020 Graduate Student Summer Seminar Series"
-date: 2020-06-30
+permalink: /talks/OSU_GradSeminar_2019
+venue: "2019 Graduate Student Summer Seminar Series"
+date: 2019-07-17
 location: "Columbus, Ohio"
 ---
 Contributed talk to the 2020 Graduate Student Summer Seminar Series.
