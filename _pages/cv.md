@@ -24,6 +24,4 @@ Selected Publications
 Selected Talks
 ======
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+You can see a complete version of my CV [here](https://github.com/toej93/toej93.github.io/blob/master/files/CV_JTorres.pdf)
