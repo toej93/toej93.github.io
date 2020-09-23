@@ -17,7 +17,7 @@ Education
 
 Selected Publications
 ======
- *Contributed talk, 2020 Graduate Student Summer Seminar Series, Columbus OH. (2020/06)
+* Contributed talk, 2020 Graduate Student Summer Seminar Series, Columbus OH. (2020/06)
 "Ultra-High Energy Neutrinos: Physics, detection, and recent results from the Askaryan Radio Array
 (ARA) experiment"
   
