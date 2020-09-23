@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "misc"
+permalink: /misc/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-{% for post in site.research %}
+{% for post in site.misc reversed %}
   {% include archive-single.html %}
 {% endfor %}
