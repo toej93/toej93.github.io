@@ -1,10 +1,9 @@
 ---
-title: "Ultra-High Energy Neutrinos: Physics, detection, and recent results from the Askaryan Radio Array
-(ARA) experiment"
+title: "Validation of in-ice simulations"
 collection: talks
 type: "Talk"
-permalink: /talks/OSU_GradSeminar_2020
-venue: "2020 Graduate Student Summer Seminar Series"
-date: 2020-06-30
-location: "Columbus, Ohio"
+permalink: /talks/RadioWS_Zeuthen
+venue: "Radio-Workshop @ DESY"
+date: 2019-06-19
+location: "Zeuthen, Germany"
 ---
