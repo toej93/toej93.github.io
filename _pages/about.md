@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<b>I'm slowly moving from my previous webpage at https://u.osu.edu/torresespinosa.1/</b>
+<b>I'm slowly moving from my [previous webpage](https://u.osu.edu/torresespinosa.1/)</b>
 
 I’m a [PhD student](https://ccapp.osu.edu/people/torresespinosa.1) at The Ohio State University working on particle astrophysics, specifically neutrino astronomy, under the supervision of [Prof. Amy Connolly](https://physics.osu.edu/people/hill.1370).
 
