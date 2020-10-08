@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Complete CV
+======
+You can see a complete version of my CV [here](https://github.com/toej93/toej93.github.io/blob/master/files/CV_JTorres.pdf)
+
 Education
 ======
 * B.S. in Physics, Universidad de Colima (Mexico), 2015
@@ -27,6 +31,4 @@ Selected Talks
     {% include archive-single-talk-cv.html %}	
   {% endfor %}</ul>	
 
-Complete CV
-======
-You can see a complete version of my CV [here](https://github.com/toej93/toej93.github.io/blob/master/files/CV_JTorres.pdf)
+
