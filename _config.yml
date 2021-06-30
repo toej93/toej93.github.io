@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jorge Torres' Academic Webpage"
 title_separator          : "-"
 name                     : &name "Jorge Torres"
-description              : &description "PhD candidate at Ohio State University"
+description              : &description "Postoctoral Researcher at Yale Physics Department"
 url                      : https://toej93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "toej93/toej93.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jorge Torres"
   avatar           : "profile.png"
-  bio              : "Experimental Astroparticle physics PhD Student at Ohio State University"
-  location         : "Columbus, OH, USA"
+  bio              : "Postdoc at Yale Physics Department working on CUORE/CUPID"
+  location         : "New Haven, CT, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=t8SAzdcAAAAJ&hl=en"
