@@ -9,10 +9,10 @@ redirect_from:
 ---
 Since July 1st 2021, I'm a postdoctoral researcher at Yale Physics Department. I work for the CUORE/CUPID experiments, which focus on searching for neutrinoless double beta decay.
 
-I got my [PhD](https://ccapp.osu.edu/people/torresespinosa.1) from The Ohio State University. My field of study was experimental particle astrophysics, specifically neutrino astronomy, under the supervision of [Prof. Amy Connolly](https://physics.osu.edu/people/hill.1370).
+I got my [PhD](https://ccapp.osu.edu/people/torresespinosa.1) from The Ohio State University. My field of study was experimental particle astrophysics, specifically neutrino astronomy, under the supervision of [Prof. Amy Connolly](https://physics.osu.edu/people/hill.1370). My PhD thesis focused on the simulation and data analysis of the [Askaryan Radio Array experiment (ARA)](https://ara.wipac.wisc.edu/home).
 
 I completed my undergraduate studies at Universidad de Colima, in Colima, Mexico; in 2015 under the supervision of [Dr. Alfredo Aranda (Fefo)](https://www.dunescience.org/facesofdune/alfredo-fefo-aranda/). In the summers of 2013 and 2014 I had the great opportunity to spend two internships at the neutrino division at the Argonne National Laboratory, working under the supervision of Dr. Jonathan Paley. My work consisted of simulating different designs of neutrino detectors, and evaluating their feasibility.
 
-I’m interested in the simulation and data side of the [Askaryan Radio Array experiment (ARA)](https://ara.wipac.wisc.edu/home).
+
 
 Apart from physics, my interests are dancing, photography and traveling.
