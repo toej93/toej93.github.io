@@ -17,18 +17,10 @@ Education
 ======
 * B.S. in Physics, Universidad de Colima (Mexico), 2015
 * M.S. in Physics, The Ohio State University, 2017
-* Ph.D in Physics, The Ohio State University, Spring 2021 (expected)
+* Ph.D in Physics, The Ohio State University, May 2021
 
-Selected Publications
-======
-* Contributed talk, 2020 Graduate Student Summer Seminar Series, Columbus OH. (2020/06)
-"Ultra-High Energy Neutrinos: Physics, detection, and recent results from the Askaryan Radio Array
-(ARA) experiment"
-  
 Selected Talks
 ======
   <ul>{% for post in site.talks %}	
     {% include archive-single-talk-cv.html %}	
   {% endfor %}</ul>	
-
-
