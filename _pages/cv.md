@@ -7,8 +7,6 @@ redirect_from:
   - /cv/
 ---
 
-{% include base_path %}
-
 You can see a complete version of my CV [here](https://toej93.github.io/files/CV_JTorres.pdf)
 
 Current position
