@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /cv/
 ---
 
 You can see a complete version of my CV [here](https://toej93.github.io/files/CV_JTorres.pdf)
