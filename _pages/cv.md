@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can see a complete version of my CV [here](https://toej93.github.io/files/CV_JTorres.pdf): https://toej93.github.io/files/CV_JTorres.pdf
+You can see a complete version of my CV [here](https://toej93.github.io/files/CV_JTorres.pdf)
 
 Current position
 ======
