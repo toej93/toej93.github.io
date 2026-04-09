@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jorge Torres' Academic Webpage"
 title_separator          : "-"
 name                     : &name "Jorge Torres"
-description              : &description "Postoctoral Researcher at Yale Physics Department"
+description              : &description "Physics Postoctoral Researcher at The University of Utah"
 url                      : https://toej93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "toej93/toej93.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jorge Torres"
   avatar           : "profile.png"
-  bio              : "Postdoc at Yale Physics Department working on CUORE/CUPID"
-  location         : "New Haven, CT, USA"
+  bio              : "Postdoc at The Unversity of Utah working on IceCube"
+  location         : "Salt Lake City, Utah, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=t8SAzdcAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "toej93"
+  # twitter          : "toej93"
   vine             :
   weibo            :
   xing             :
