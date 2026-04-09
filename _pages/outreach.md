@@ -10,7 +10,7 @@ author_profile: true
 
 ## Outreach & Speaking
 
-I'm passionate about sharing my research and engaging with the community. You can find an update list of my outreach activities on my CV
+I'm passionate about sharing my research and engaging with the community. You can find an updated list of my outreach activities on my [CV](/files/CV_JTorres.pdf).
 
 {% for post in site.misc reversed %}
   {% include archive-single.html %}
