@@ -7,14 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.talkmap_link == true %}
+<h2>Research Overview</h2>
+<p>My research focuses on particle astrophysics. Below are my recent publications and research projects.</p>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
+{% if site.research %}
+  <h3>Research Posts</h3>
+  {% for post in site.research reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% elsif site.posts %}
+  <h3>Recent Work</h3>
+  {% for post in site.posts reversed %}
+    {% if post.research %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
 {% endif %}
-
-My research is
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
