@@ -9,7 +9,11 @@ You can see a complete version of my CV [here](https://toej93.github.io/files/CV
 
 Current position
 ======
-Postdoctoral Researcher at Yale's Wright Lab in Prof. Heeger's and Prof. Maruyama's Lab.
+* Postdoctoral Researcher at the University of Utah, working on the IceCube experiment with Prof. Carsten Rott and Prof. Dennis Soldin
+
+Previous positions
+======
+* Postdoctoral Researcher at Yale's Wright Lab in Prof. Heeger's and Prof. Maruyama's Lab.
 
 Education
 ======
