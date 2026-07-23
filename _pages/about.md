@@ -9,7 +9,7 @@ redirect_from:
 ---
 Since July 2025, I've been a postdoctoral researcher at the University of Utah, working with the groups of Prof. Carsten Rott and Prof. Dennis Soldin, on the IceCube experiment.
 
-Before that, I was a postdoctoral researcher at Yale's Wright Lab, in Prof. Maruyama's [group](https://maruyama-lab.yale.edu/group-members) from 2021 to 2025. I worked on the [CUORE/CUPID](https://cuore.yale.edu/) experiments, which search for neutrinoless double beta decay.
+Before that, I was a postdoctoral researcher at Yale's Wright Lab, in the groups of Prof. Karsten Heeger and Prof. Reina Maruyama [https://maruyama-lab.yale.edu/group-members](https://maruyama-lab.yale.edu/group-members) from 2021 to 2025. I worked on the [CUORE/CUPID](https://cuore.yale.edu/) experiments, which search for neutrinoless double beta decay.
 
 I got my [PhD](https://ccapp.osu.edu/people/torresespinosa.1) from The Ohio State University. My field of study was experimental particle astrophysics, specifically neutrino astronomy, under the supervision of [Prof. Amy Connolly](https://physics.osu.edu/people/hill.1370). My PhD thesis focused on the simulation and data analysis of the [Askaryan Radio Array experiment (ARA)](https://ara.wipac.wisc.edu/home).
 
@@ -18,7 +18,7 @@ I completed my undergraduate studies at Universidad de Colima, in Colima, Mexico
 Apart from physics, my interests are cycling, [photography](https://oia.osu.edu/2019-international-photography-exhibition/pretzel-man) and climbing.
 
 <div style="display: flex; gap: 1.5rem; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
-  <figure style="margin: 0; text-align: center; flex: 1 1 320px; max-width: 520px;">
+  <figure style="margin: 0; text-align: center; flex: 1 1 320px; max-width: 700px;">
     <img src="https://raw.githubusercontent.com/toej93/toej93.github.io/master/_pages/climbing.jpg" width="600" height="400" alt="Climbing" style="width: 100%; height: auto; display: block;" />
     <figcaption>Leading a pitch on the Grand Teton's Upper Exum. We summited it on July 18, 2026. Photo credit: Dan Hadley</figcaption>
   </figure>
