@@ -9,7 +9,7 @@ redirect_from:
 ---
 Since July 2025, I've been a postdoctoral researcher at the University of Utah, working with the groups of Prof. Carsten Rott and Prof. Dennis Soldin, on the IceCube experiment.
 
-Before that, I was a postdoctoral researcher at Yale's Wright Lab, in the groups of Prof. Karsten Heeger and Prof. Reina Maruyama [https://maruyama-lab.yale.edu/group-members](https://maruyama-lab.yale.edu/group-members) from 2021 to 2025. I worked on the [CUORE/CUPID](https://cuore.yale.edu/) experiments, which search for neutrinoless double beta decay.
+Before that, I was a postdoctoral researcher at Yale's Wright Lab, working with Prof. Karsten Heeger and [Prof. Reina Maruyama](https://maruyama-lab.yale.edu/) from 2021 to 2025. I worked on the [CUORE/CUPID](https://cuore.yale.edu/) experiments, which search for neutrinoless double beta decay.
 
 I got my [PhD](https://ccapp.osu.edu/people/torresespinosa.1) from The Ohio State University. My field of study was experimental particle astrophysics, specifically neutrino astronomy, under the supervision of [Prof. Amy Connolly](https://physics.osu.edu/people/hill.1370). My PhD thesis focused on the simulation and data analysis of the [Askaryan Radio Array experiment (ARA)](https://ara.wipac.wisc.edu/home).
 
