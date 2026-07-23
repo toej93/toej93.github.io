@@ -23,8 +23,4 @@ Apart from physics, my interests are cycling, [photography](https://oia.osu.edu/
     <figcaption>Climbing</figcaption>
   </figure>
 
-  <figure style="margin: 0; text-align: center; flex: 1 1 320px; max-width: 420px;">
-    <img src="https://raw.githubusercontent.com/toej93/toej93.github.io/master/_pages/cycling.jpg" width="300" height="400" alt="Cycling" style="width: 100%; height: auto; display: block;" />
-    <figcaption>Cycling</figcaption>
-  </figure>
 </div>
