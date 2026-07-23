@@ -20,7 +20,7 @@ Apart from physics, my interests are cycling, [photography](https://oia.osu.edu/
 <div style="display: flex; gap: 1.5rem; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
   <figure style="margin: 0; text-align: center; flex: 1 1 320px; max-width: 420px;">
     <img src="https://raw.githubusercontent.com/toej93/toej93.github.io/master/_pages/climbing.jpg" width="600" height="400" alt="Climbing" style="width: 100%; height: auto; display: block;" />
-    <figcaption>Climbing</figcaption>
+    <figcaption>Leading a pitch on the Grand Teton's Upper Exum. We submitted it on July 18, 2026. Photo credit: Dan Hadley</figcaption>
   </figure>
 
 </div>
